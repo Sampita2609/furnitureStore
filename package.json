@@ -2,10 +2,10 @@
   "name": "furniturestore",
   "version": "1.0.0",
   "description": "",
-  "main": "furniturApi.js",
+  "main": "furnitureApi.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node furniturApi.js"
+    "start": "node furnitureApi.js"
   },
   "keywords": [],
   "author": "",
